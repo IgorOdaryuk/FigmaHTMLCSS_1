@@ -332,3 +332,8 @@ color: #EE8313;
 .destination__link:hover {
 color: #EF5E10;
 }
+
+/* Location */
+#location-section {
+    padding-bottom: 102px;
+}
