@@ -337,3 +337,15 @@ color: #EF5E10;
 #location-section {
     padding-bottom: 102px;
 }
+
+/* Footer */
+#footer-section {
+    padding-top: 40px;
+    background-color: #1F1905;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 65px;
+}
